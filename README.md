@@ -1,18 +1,3 @@
 # HeartBeatsAt25-SiteFULLSTACK
 
-Frontend starter for HeartBeatsAt25. The copy is intentionally placeholder text
-so it can be replaced later.
-
-## Scripts
-
-```bash
-npm run dev
-npm run build
-npm run preview
-```
-
-## Deploy
-
-No install step is required because the frontend has no package dependencies.
-Use `npm run build` as the build command and `dist` as the publish/output
-directory on Vercel, Render, Netlify, or any static host.
+Frontend pra um presente pra minha namorada com os gostos dela e coisas que ela gosta em geral, só algo legal que eu quero dar pra ela de presente.
